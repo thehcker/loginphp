@@ -1,0 +1,686 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user_Entry"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"pas",
+				"password_entry"
+			],
+			[
+				"HIGH",
+				"highlightthickness"
+			],
+			[
+				"bg",
+				"bgclr"
+			],
+			[
+				"chee",
+				"cheese_type"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"VA",
+				"VALUES"
+			],
+			[
+				"my",
+				"mydb"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"f",
+				"first_name"
+			],
+			[
+				"s",
+				"say_hi"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"te",
+				"tmp_name"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"empl",
+				"employee_name"
+			],
+			[
+				"w",
+				"withdraw"
+			],
+			[
+				"person",
+				"person1"
+			],
+			[
+				"emp",
+				"empl_2"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"mail",
+				"mail-process"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"ob",
+				"ob_start"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"ria",
+				"riat"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"print",
+				"print_all_slips"
+			],
+			[
+				"net",
+				"net_salary"
+			],
+			[
+				"basic",
+				"basic_salary"
+			],
+			[
+				"employ",
+				"employees"
+			],
+			[
+				"iss",
+				"isset"
+			],
+			[
+				"emplo",
+				"employee_name"
+			],
+			[
+				"eml",
+				"employee_name"
+			],
+			[
+				"employee",
+				"employee_name"
+			],
+			[
+				"Em",
+				"employee_name"
+			],
+			[
+				"em",
+				"employeedetails"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"nm",
+				"num2"
+			],
+			[
+				"riat",
+				"riatkenya"
+			],
+			[
+				"phpma",
+				"PHPMailerAutoload"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"logo",
+				"logout"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"password_",
+				"password_hash"
+			],
+			[
+				"quer",
+				"query"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"_",
+				"_SERVER"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"http_re",
+				"http_referer"
+			],
+			[
+				"mysql_string",
+				"mysql_real_escape_string"
+			],
+			[
+				"query",
+				"query_run"
+			],
+			[
+				"User",
+				"username"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"poi",
+				"position"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"add",
+				"addColor"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"bo",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Emm",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"Theme",
+				"Monokai Pro: select theme"
+			],
+			[
+				"package c",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 328.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"10/2",
+			"console.log(50%3):",
+			"console.log(10/2);",
+			"4",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mr. Isaac/sql.py",
+		"/C/Users/Mr. Isaac/Desktop/Dessertation/connect.py",
+		"/C/xampp/htdocs/tutorial/host/database.php",
+		"/D/PYTHON/Assignment 1/payslip.py",
+		"/D/PYTHON/Assignment 1/nested.py",
+		"/D/PYTHON/Assignment 1/object.py",
+		"/D/PYTHON/Assignment 1/objectify.py",
+		"/D/PYTHON/Assignment 1/operators.py",
+		"/C/xampp/htdocs/tutorial/host/services.html",
+		"/C/xampp/htdocs/tutorial/host/web.css",
+		"/C/xampp/htdocs/tutorial/host/index.html",
+		"/C/xampp/htdocs/tutorial/host/courses.html",
+		"/C/xampp/htdocs/tutorial/host/contact.html",
+		"/C/xampp/htdocs/tutorial/host/About.html",
+		"/C/xampp/htdocs/tutorial/update.inc.php",
+		"/C/xampp/htdocs/tutorial/host/mail-process.php",
+		"/C/xampp/htdocs/mailerphp/index.php",
+		"/C/xampp/htdocs/tutorial/host/mailer/aboutus.html",
+		"/D/PYTHON/Assignment 1/connector.py",
+		"/D/PYTHON/Assignment 1/assessment.py",
+		"/D/PYTHON/Assignment 1/parent.py",
+		"/D/PYTHON/Assignment 1/car.py",
+		"/C/xampp/htdocs/tutorial/web.css",
+		"/C/xampp/htdocs/tutorial/courses.html",
+		"/C/xampp/htdocs/tutorial/contact.html",
+		"/C/xampp/htdocs/tutorial/index.html",
+		"/C/xampp/htdocs/tutorial/services.html",
+		"/C/xampp/htdocs/classhare.com/pages/backbone.php",
+		"/C/xampp/htdocs/uploads/upload.php",
+		"/C/xampp/htdocs/tutorial/About.html",
+		"/C/xampp/htdocs/Codelobster/index.php",
+		"/C/xampp/htdocs/Codelobster/userInfo.php",
+		"/D/PYTHON/Assignment 1/constructor.py",
+		"/D/PYTHON/Assignment 1/methods.py",
+		"/C/xampp/htdocs/phpforms/upload.php",
+		"/C/xampp/htdocs/tutorial/mail-process.php",
+		"/C/xampp/htdocs/Codelobster/index.html",
+		"/D/ALC Resources/kitten.html",
+		"/C/Users/Mr. Isaac/Documents/Isaac's Website/contacts.html",
+		"/C/Users/Mr. Isaac/Documents/Isaac's Website/forms.html",
+		"/C/xampp/htdocs/uploads/photoupload.php",
+		"/D/ALC Resources/fend-animal/styles.css",
+		"/C/Users/Mr. Isaac/Downloads/upload.php",
+		"/C/xampp/htdocs/phpfiles/forms.html",
+		"/C/xampp/htdocs/phpfiles/upload.php",
+		"/C/xampp/htdocs/phpfiles/slide.html",
+		"/C/xampp/htdocs/phpforms/php_form.html",
+		"/C/xampp/htdocs/phpforms/form_validate.html",
+		"/C/xampp/htdocs/phpforms/form_validation.php",
+		"/C/Program Files/Git/ReleaseNotes.html",
+		"/D/ALC Resources/fend-animal/card.html",
+		"/D/ALC Resources/mockup.html",
+		"/C/Users/Mr. Isaac/Desktop/trial1/gitbasics.html",
+		"/D/ALC Resources/index.html",
+		"/C/xampp/htdocs/values.php",
+		"/C/xampp/htdocs/main.html",
+		"/C/xampp/htdocs/codelogin.php",
+		"/C/xampp/htdocs/common.css",
+		"/C/xampp/htdocs/dbb.php",
+		"/C/Users/Mr. Isaac/.vscode/extensions/vscjava.vscode-java-debug-0.5.0/node_modules/applicationinsights/AutoCollection/Console.js",
+		"/C/xampp/htdocs/Visual/index.html",
+		"/C/xampp/htdocs/text/update.inc.php",
+		"/C/xampp/htdocs/text/ajax.php",
+		"/C/xampp/htdocs/RIAT/styles.css",
+		"/C/xampp/htdocs/Visual/db.php",
+		"/C/xampp/htdocs/Codelobster/db.php",
+		"/C/xampp/htdocs/Visual/userInfo.php",
+		"/C/xampp/htdocs/database/procedural.php",
+		"/C/xampp/htdocs/database/emailInfo.php",
+		"/C/xampp/htdocs/database/index.html",
+		"/C/xampp/htdocs/RIAT/courses.html",
+		"/C/xampp/htdocs/tutorial/connect.php",
+		"/C/xampp/htdocs/Codelobster/my_script.js",
+		"/C/xampp/htdocs/Codelobster/first.js",
+		"/C/xampp/htdocs/RIAT/userInfo.php",
+		"/C/xampp/htdocs/Newfolder/my_script.js",
+		"/C/xampp/htdocs/Newfolder/index.html",
+		"/C/xampp/htdocs/RIAT/enrol.html",
+		"/C/xampp/htdocs/RIAT/testing.php",
+		"/C/xampp/htdocs/tutorial/ajax.php",
+		"/C/xampp/htdocs/filehandling/file.php",
+		"/C/xampp/htdocs/latest/index.php",
+		"/C/xampp/htdocs/tutorial/index.php",
+		"/C/xampp/htdocs/tutorial/loginform.inc.php",
+		"/C/xampp/htdocs/tutorial/connect.inc.php",
+		"/C/xampp/htdocs/mailerphp/credential.php",
+		"/C/xampp/htdocs/latest/mail-process.php",
+		"/C/xampp/htdocs/autoresponse/notification.php",
+		"/C/xampp/htdocs/autoresponse/index.php",
+		"/C/xampp/htdocs/autoresponse/mail-process.php",
+		"/C/xampp/htdocs/latest/mailer/class.phpmailer.php",
+		"/C/xampp/htdocs/filehandling/names.txt",
+		"/C/xampp/htdocs/tutorial/logout.php",
+		"/C/xampp/htdocs/tutorial/register.php",
+		"/C/xampp/htdocs/autoresponse/database.php",
+		"/C/xampp/htdocs/autoresponse/mailer/class.phpmailer.php",
+		"/C/xampp/htdocs/mailerphp/connect.php",
+		"/C/xampp/htdocs/tutorial/core.inc.php",
+		"/C/xampp/htdocs/tutorial/register_success.php",
+		"/D/PYTHON/Assignment 1/function.py",
+		"/C/xampp/htdocs/autoresponse/mailer/PHPMailerAutoload.php",
+		"/C/xampp/htdocs/autoresponse/mailer/class.smtp.php",
+		"/C/xampp/htdocs/mailerphp/phpmailer/PHPMailerAutoload.php",
+		"/C/Users/Mr. Isaac/Documents/Web devpt/indexing.html.html",
+		"/C/xampp/php/pear/PEAR/Autoloader.php",
+		"/C/xampp/htdocs/mailerphp/phpmailer/src/SMTP.php",
+		"/C/xampp/htdocs/mailerphp/phpmailer/src/PHPMailer.php",
+		"/C/xampp/htdocs/mailerphp/phpmailer/src/OAuth.php",
+		"/C/xampp/htdocs/tutorial/link.php",
+		"/C/xampp/php/CompatInfo.php",
+		"/C/xampp/htdocs/phpmailer/index.php",
+		"/C/xampp/htdocs/RIAT/index.php",
+		"/C/xampp/htdocs/RIAT/About.html",
+		"/C/xampp/htdocs/RIAT/table_3.html",
+		"/C/xampp/htdocs/RIAT/riatframe.html",
+		"/C/xampp/htdocs/RIAT/web.css",
+		"/C/xampp/htdocs/RIAT/contact.html",
+		"/C/xampp/htdocs/RIAT/services.html",
+		"/C/xampp/htdocs/RIAT/index.html",
+		"/C/xampp/htdocs/RIAT/core.inc.php",
+		"/C/xampp/htdocs/RIAT/connect.inc.php",
+		"/C/xampp/htdocs/RIAT/logout.php",
+		"/C/xampp/htdocs/RIAT/register_success.php",
+		"/C/Users/Mr. Isaac/Downloads/logout.php",
+		"/C/xampp/htdocs/RIAT/register.php",
+		"/C/xampp/htdocs/RIAT/loginform.inc.php",
+		"/C/xampp/htdocs/PHP docs/shuffle.php",
+		"/C/xampp/htdocs/RIAT/title.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"user",
+			"list.insert(1,3)\n",
+			"first_name",
+			"Employee",
+			"\temployees[employee_name].append(amount)\n",
+			"Item",
+			"bottom",
+			"favorite",
+			"solarized",
+			"monokai",
+			"Aboutimport urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"About",
+			"Michael",
+			"body {\n",
+			"top",
+			"name",
+			";\n",
+			"    .title {",
+			"%;\n",
+			";\n",
+			"{\n",
+			";\n",
+			"\">\n",
+			"<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>\n  <meta name=\"udacity-grader\" content=\"tests.json\">\n  <style>\n    * {\n      box-sizing: border-box;\n    }\n    body {\n      font-family: 'Open Sans', sans-serif;\n      color: #222;\n    }\n    .card {\n      height: 475px;\n      width: 325px;\n      box-shadow: 0px 5px 15px 0px rgba(153,153,153,0.5);\n      border-radius: 4px;\n    }\n    .top {\n      height: 55%;\n      border-radius: 4px 4px 0px 0px;\n      border: 1px solid #ddd;\n      padding: 0px 16px;\n      background-image:url(profile-placeholder.svg); \n    }\n    .name {\n      padding-top: calc(475px * 0.40);\n      margin: 0px;\n    }\n    .status {\n      display: inline-block;\n      width: 10px;\n      height: 10px;\n      margin-left: 4px;\n\n      border-radius: 5px;\n      background-color: #60D156;\n    }\n    .title {\n      margin-top: 8px;\n    }\n    .middle {\n      height: 5%;\n      border-left: 1px solid #ddd;\n      border-right: 1px solid #ddd;\n      padding: 0px 16px;\n    }\n    .time {\n      color: #444;\n      font-size: 0.8em;\n      padding-top: 0.2em;\n    }\n    .bottom {\n      height: 40%;\n      border-radius: 0px 0px 4px 4px;\n      border: 1px solid #ddd;\n      padding: 8px 16px;\n    }\n    .profile-action {\n      display: block;\n      width: 100%;\n      height: 32px;\n      font-size: 1em;\n      text-align: left;\n      cursor: pointer;\n      border: 4px rounded;\n      background-color: white;\n      font-family: 'Open Sans', sans-serif;\n    }\n    .profile-action:hover {\n      background-color: #00A5D2;\n      color: white;\n    }\n  </style>\n</head>\n<body>\n  <section>\n    <div class=\"card\">\n      <div class=\"top\">\n        <h3 class=\"name\">Udacity Student <span class=\"status\"></span></h3>\n        <p class=\"title\">Learner Extraordinaire</p>\n      </div>\n      <div class=\"middle\">\n        <div class=\"time\">12:34 PM local time</div>\n      </div>\n      <div class=\"bottom\">\n        <!-- See how the buttons all have the same CSS class?-->\n\t\t<button class=\"profile-action\">View preferences</button>\n        <button class=\"profile-action\">Open account settings</button>\n        <button class=\"profile-action\">Edit your profile</button>\n        <button class=\"profile-action\">View your files</button>\n        <button class=\"profile-action\">Set yourself away</button>\n      </div>\n    </div>\n  </section>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "About.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
